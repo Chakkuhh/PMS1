@@ -1,0 +1,73 @@
+.dashboard{
+    width: 100%;
+    height: 60px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #000000bd;
+    font-size: 900;
+    font-weight: bolder;
+    color: white;
+}
+
+.name{
+    width: 300px;
+    height: 90px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #4b47472e;
+    border-radius: 20px;
+    color: #ffff007a;
+}
+
+.leav{
+    margin: auto;
+    width: 200px;
+    height: 100px;
+    background-color:#4b47472e ;
+    margin-top: 5rem;
+    border-radius: 20px;
+    color: white;
+}
+#le{
+    margin-top: 40px;
+}
+
+
+.leav button{
+    margin: auto;
+    background-color: orange;
+    border-radius: 10px;
+    border: none;
+}
+.logout{
+    margin: auto;
+    margin-top: 300px;
+    width: 100px;
+    background-color: red;
+    cursor: pointer;
+}
+
+#bor{
+    border-right:1px solid ;
+}
+.row{
+  
+    height: 450px;
+}
+#sal{
+    margin-top: 40px;
+}
+.sal{
+    width: 300px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+    background-color: #9494c11f;
+}
+.sal p{
+    margin-top: 30px;
+    font-weight: 900;
+}

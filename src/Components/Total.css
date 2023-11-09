@@ -1,0 +1,29 @@
+
+.total{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 25px;
+    width: 300px;
+    height: 300px;
+    background-color: #10101aa6;
+    color: white;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.connt{
+    margin-top: 20px;
+}
+.bu{
+    background-color: orange;
+    color: red;
+    border: none;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+.bu:hover{
+    transform: scale(1.1);
+    background-color: transparent;
+    color: white;
+    
+}

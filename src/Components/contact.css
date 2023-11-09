@@ -1,0 +1,60 @@
+.contct{
+  background-color: black;
+}
+.content{
+  margin: auto;
+  width: 1200px;
+  height: 100px;
+}
+.res{
+  margin-top: 150px;
+}
+
+.phne{
+  margin-top: 60px;
+  margin-left: -240px;
+}
+.emal{
+  margin-top: 60px;
+  margin-left: -200px;
+
+}
+.from{
+  border: 1px solid;
+  background-color: transparent;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.from input {
+  margin: auto;
+  
+  border: 1px solid white;
+  width: 300px;
+  
+  margin-bottom: 30px;
+  margin-top: 30px;
+  color: black;
+  background-color: transparent;
+}
+.from input :placeholder-shown{
+  color: white;
+}
+.from textarea{
+  margin: auto;
+  margin-top: 30px;
+  width: 300px;
+  height: 100px;
+  background-color: transparent;
+}
+.from button{
+  width: 100px;
+  margin: auto;
+  background-color: orange;
+  border:none;
+  border-radius: 10px;
+
+}
+

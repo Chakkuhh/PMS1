@@ -1,0 +1,67 @@
+.employee-body{
+    background-color: black;
+}
+.newwork{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #65653854;
+    font-weight: 900;
+}
+.newwork:hover{
+    color: red;
+}
+
+.adjust{
+    margin-top: 30px;
+}
+.employe-input-card{
+    width: 500px;
+    height: 500px;
+    background-color: #131315b5;
+    margin: auto;
+    margin-top: 3rem;
+    border-radius: 20px;
+    text-align: center;
+}
+.employe-input-form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 4rem;
+}
+.employe-input{
+    width: 200px;
+    margin-left: 9.5rem;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    transition: 1s;
+    background-color: #a52a2b59;
+}
+.employe-input:hover{
+    transform: scale(1.2);
+    background-color: #da2e3654;
+    color: aliceblue;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+.employe-button{
+    width: 100px;
+    height: 40px;
+    margin-left: 13rem;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 1px solid white;
+    background-color: #a9813730;
+    color: white;
+}
+.employe-button:hover{
+    transform: scale(1.1);
+    background-color: orange;
+    border: none;
+}
+select option{
+    background-color: blue;
+}

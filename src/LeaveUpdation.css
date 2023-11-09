@@ -1,0 +1,13 @@
+body{
+    color: white;
+}
+.das{
+    margin: auto;
+    text-align: center;
+    margin-top: 10px;
+    width: 1400px;
+    height: 80px;
+    border: 1px solid wheat;
+    color: orange;
+    padding: 10px;
+}

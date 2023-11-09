@@ -1,0 +1,66 @@
+.background{
+    background-image: url('https://cdn.pixabay.com/photo/2021/01/29/17/24/hand-5961660_1280.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.nn{
+    background-color: transparent;
+}
+.form{
+    width: 300px;
+    height: 350px;
+    background-color: #0b0b0e8c;
+    margin: auto;
+    margin-top: 7rem;
+    border-radius: 20px;
+
+    
+}
+.admin-form{
+    text-align: center;
+    color:#cbd6c1a8;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding:10px ;
+    
+}
+.admin-input{
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid blue;
+    background-color: burlywood;
+    transition: transform 2s ;
+    text-align: center;
+    
+
+}
+.admin-button{
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: #040708;
+    border: none;
+    transform: 2s;
+    
+   
+
+
+}
+.admin-button:hover{
+    background-color: olive;
+    color: rgb(253, 251, 249);
+    transform: scale(1.2);
+    border: 2px solid white;
+}
+.admin-input:hover{
+    background-color: rgba(133, 114, 114, 0.033);
+    color: orange;
+    
+    transform: scale(1.2);
+}

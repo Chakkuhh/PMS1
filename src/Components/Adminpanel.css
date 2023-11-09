@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#adminpanel{
+    margin-left: 18rem;
+    margin-top: 8rem;
+}
+
+
+#add{
+    
+   width: 250px;
+   height: 140px;
+   background-color: #0e0e1687;
+   color: white;
+   border-radius: 10px;
+   border: 1px solid salmon;
+   
+}
+#add:hover{
+    transform: scale(1.1);
+    border: none;
+}
+.discri{
+    margin-top: 3rem;
+}
+#total{
+    width: 250px;
+    height: 140px;
+    background-color: #0e0e1687;
+    color: white;
+    border-radius: 10px;
+   border: 0.5px solid salmon;
+
+    
+
+}
+#total:hover{
+    transform: scale(1.1);
+    border: none;
+}
+.but{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.date{
+    margin: auto;
+    margin-top: 6rem;
+    width: 500px;
+    height: 50px;
+    color: rgba(228, 228, 221, 0.777);
+    background-color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    
+}
+#lee{
+    width: 250px;
+    height: 140px;
+    background-color: #0e0e1687;
+    color: white;
+    border-radius: 10px;
+   border: 0.5px solid salmon;
+}
+#lee:hover{
+    transform: scale(1.1);
+    border: none;
+}
+

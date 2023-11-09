@@ -1,0 +1,24 @@
+.discription{
+  margin-top: -34rem;
+  margin-left: 6rem;
+  width: 400px;
+  height: 500px;
+  text-align: center;
+}
+.mainheading{
+  font-weight: 300;
+  
+}
+.para{
+  font-weight: 100;
+}
+.butt{
+  background-color: transparent;
+  padding: 5px;
+  margin-left: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.butt:hover{
+  transform: scale(1.1);
+}

@@ -1,0 +1,36 @@
+.container{
+    margin-top: 5rem;
+
+}
+.container h1{
+    font-weight: bolder;
+    color: #ffff00b8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.leave{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 300px;
+    background-color: #3c3c4e54;
+    margin: auto;
+}
+.leave input{
+    width: 300px;
+    height: 40px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.leave input:hover{
+    transform: scale(1.1);
+    background-color: transparent;
+    color: white;
+    border: 1px solid whitesmoke;
+}
+.leave button{
+    background-color: orange;
+}
